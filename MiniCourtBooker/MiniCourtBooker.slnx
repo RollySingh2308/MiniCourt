@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Booker.Application/Booker.Application.csproj" Id="d82ce877-6568-4b47-be81-9ba63a7212f5" />
+  <Project Path="Booker.Domain/Booker.Domain.csproj" />
+  <Project Path="Booker.Infrastructure/Booker.Infrastructure.csproj" />
+  <Project Path="Booker.WebApi/Booker.WebApi.csproj" Id="55ebac51-4fae-45d4-8ccf-0b983aba8f93" />
+</Solution>
